@@ -14,4 +14,8 @@
 
 
 <center> ⌛ Happy Coding  ✍ </center>
+<br>
+<br>
+
+<img src="./javascript.gif" align="left" alt="desktop_version">
 
