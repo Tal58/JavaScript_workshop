@@ -22,7 +22,7 @@ Problem Statement
 
 ## 🖥️Screen version
 <br>
-<img src="./array.jpg" align="left" alt="desktop_version">
+<img src="./arrays.jpg" align="left" alt="desktop_version">
 
 
 <center> ⌛ Happy Coding  ✍ </center>
