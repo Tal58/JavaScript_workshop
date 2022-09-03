@@ -5,7 +5,6 @@
 
 let Input1 = "JavaScript coding ChAlLenge"
 let Input2 = "JavaScript-coding-challenge"
-
 const camel = (str) =>{
         if (str.match("-")){
                  newStr = str.split("-")
@@ -13,12 +12,11 @@ const camel = (str) =>{
                  newStr = str.split(" ")
         }
         let newArr = [];
+        let string = ""
       for (const x of newStr) {
-        newArr.push(x.charAt(0).toUpperCase()+x.slice(1))
-        }
-        
+        string = x.toLowerCase()
+        newArr.push(string.charAt(0).toUpperCase()+string.slice(1))}        
         return newArr.join("")
 }
-
 console.log(camel(Input1))
 console.log(camel(Input2))
