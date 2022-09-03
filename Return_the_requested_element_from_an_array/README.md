@@ -19,10 +19,10 @@ Aim of this challenge are as follows;
 Problem Statement
  -Call your function with an array and a positive integer. Display the results on the console.
 
+<center> ⌛ Happy Coding  ✍ </center>
 
 ## 🖥️Screen version
 <br>
 <img src="./arrays.jpg" align="left" alt="desktop_version">
 
 
-<center> ⌛ Happy Coding  ✍ </center>
