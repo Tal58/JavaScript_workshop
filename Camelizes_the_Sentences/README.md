@@ -13,7 +13,7 @@ Output : javaScriptCodingChallenge
 
 # Learning Outcomes
 
-Aim of this challenge are as follows;
+Aim of this challenge is as follows;
 
  -analyze a problem, identify and apply programming knowledge for appropriate solution.
  -demonstrate their knowledge of algorithmic design principles by using JavaScript effectively.
