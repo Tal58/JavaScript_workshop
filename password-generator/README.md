@@ -35,6 +35,6 @@ Aa@c456stu // only one symbol<br>
 
 ## 🖥️Screen version
 <br>
-<img src="./ssn-validator.png" align="left" alt="desktop_version">
+<img src="./password.png" align="left" alt="desktop_version">
 
 
