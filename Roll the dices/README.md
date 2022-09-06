@@ -2,16 +2,16 @@
 
 The purpose of this coding challenge is to create two dice, shake them the desired number of times, and write
 a function that prints the results as text.
-# Learning Outcomes
+<br>
+## Learning Outcomes
 
 Aim of this challenge is as follows;
 
  -analyze a problem, identify and apply programming knowledge for appropriate solution.<br>
  -demonstrate their knowledge of algorithmic design principles by using JavaScript effectively.<br>
- 
-<br>
-# Expected Outcome
-<br>
+
+## Expected Outcome
+
 - if first dice is 1 and second dice is 6, output should be 'one - six'<br>
   For example :<br>
 - call this function with dices(10) Yo should display all 10 result.<br>
