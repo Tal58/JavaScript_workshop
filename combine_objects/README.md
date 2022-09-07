@@ -1,7 +1,6 @@
 # Bombine Object
 
-Your task is to write a function that takes two or more objects and returns a new object which combines all the input objects.
-
+In this case you get the start number and the end number of a region and should return the count of all numbers except numbers with a 5 in it. The start and the end number are both inclusive!
 
 # Learning Outcomes
 
@@ -11,17 +10,11 @@ Aim of this challenge is as follows;
  -demonstrate their knowledge of algorithmic design principles by using JavaScript effectively.<br>
  
 # Problem Statement
-All input object properties will have only numeric values. Objects are combined together so that the values of matching keys are added together.
-
-<br>
-Expected Outcome<br>
-An example:<br>
-const objA = { a: 10, b: 20, c: 30 }<br>
-const objB = { a: 3, c: 6, d: 3 }<br>
-const objC = { a: 5, d: 11, e: 8 }<br>
-const objD = { c: 3 }<br>
-
-combine(objA, objB) // Returns { a: 13, b: 20, c: 36, d: 3 }<br>
+Examples:<br>
+1,9 -> 1,2,3,4,6,7,8,9 -> Result 8<br>
+4,17 -> 4,6,7,8,9,10,11,12,13,14,16,17 -> Result 12<br>
+The result may contain fives. ;-)<br>
+The start number will always be smaller than the end number. Both numbers can be also negative!<br>
 
 <center> ⌛ Happy Coding  ✍ </center>
 
