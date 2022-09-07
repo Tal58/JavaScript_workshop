@@ -2,7 +2,7 @@
 
 Purpose of the this coding challenge is to write a code that given TR Identity Number, returns valid or invalid.
 
-# Learning Outcomes
+## Learning Outcomes
 
 Aim of this challenge is as follows;
 
@@ -35,6 +35,6 @@ Here are randomly generated valid ID numbers. You can use them to test your code
 
 ## 🖥️Screen version
 <br>
-<img src="./password.png" align="left" alt="desktop_version">
+<img src="./TR_ID.jpg" align="left" alt="desktop_version">
 
 
