@@ -1,4 +1,4 @@
-## Bombine Object
+# Bombine Object
 
 Your task is to write a function that takes two or more objects and returns a new object which combines all the input objects.
 
