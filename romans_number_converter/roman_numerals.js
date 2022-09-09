@@ -19,7 +19,10 @@ const romans = (num) => {
                     romansNumber.push(Object.keys(romans_list)[Object.keys(romans_list).indexOf(x) + 1]) //enter an one smaller roman number 
                     romansNumber.push(Object.keys(romans_list)[Object.keys(romans_list).indexOf(x) - 1]) //enter an one bigger roman number 
                     num = romans_list[Object.keys(romans_list)[Object.keys(romans_list).indexOf(x) - 1]] - num // subtract bigger number from num
-                    num = num -romans_list[Object.keys(romans_list)[Object.keys(romans_list).indexOf(x) + 1]] //subtract num from smaller roman number
+                    num = num - romans_list[Object.keys(romans_list)[Object.keys(romans_list).indexOf(x) + 1]] //subtract num from smaller roman number
+                    if (num<0){
+                        num = num*(-1)
+                    }
                 }
                 else if (counter <= 3) {
                     for (let i = 0; i < counter; i++) {
@@ -34,10 +37,8 @@ const romans = (num) => {
                     num = romans_list[Object.keys(romans_list)[Object.keys(romans_list).indexOf(x)]] - num // subtract number from num  
                 }
                 else {
-                    for (let i = 0; i < counter; i++) {
                         romansNumber.push(x)
-                    }
-                    num -= counter * romans_list[x]
+                        num -= counter * romans_list[x]
                 }            
             }
         })
@@ -51,5 +52,11 @@ romans(90)
 romans(2008)
 romans(2000)
 romans(8)
-romans(45)
-romans(1001)
+romans(998)
+romans(148)
+romans(579)
+romans(999)
+romans(3999)
+romans(49)
+
+
