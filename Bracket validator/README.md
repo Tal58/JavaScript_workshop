@@ -30,10 +30,9 @@ At the end of the this coding challenge, students will be able to;
 
 **<p align="center">&#9997; Happy Coding ⌛ </p>**
 
-🌐 The desktop version of the web page is as follows;🧭
-<br><br>
 
-## 🖥️ Screen shot
+
+## 🖥️ Screen shot of the solution is as follows;
 <br>
 <img src="./desktop.jpg"  align="left" alt="desktop_version">
 <br>
