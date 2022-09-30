@@ -51,6 +51,8 @@ Window position                Max
 
 - Make solution with JS
 
+<p align='center'> ⌛ Happy Coding  ✍ <p>
+
 ## 🖥️Screen Shot of the solution
 <br>
 <img src="./img.jpg" align="left" alt="desktop_version">
@@ -65,4 +67,3 @@ Window position                Max
 <br>
 <br><br><br><br><br><br><br><br><br>
 
-<p align='center'> ⌛ Happy Coding  ✍ <p>
