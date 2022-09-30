@@ -9,17 +9,13 @@
 - Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k.
 
 
-## Submit
-
-- Students will push the solutions to their own public GitHub repos.
-
 ## Learning Outcomes
 
-At the end of the this coding challenge, students will be able to;
+At the end of the this coding challenge;
 
 - Analyze a problem, identify and apply programming knowledge for appropriate solution.
 
-- Demonstrate their knowledge of algorithmic design principles by using JavaScript and Python effectively.
+- Demonstrate your knowledge of algorithmic design principles by using JavaScript and Python effectively.
 
 ## Expected Outcome
 
