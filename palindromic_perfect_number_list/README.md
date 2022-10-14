@@ -33,7 +33,8 @@ At the end of the this coding challenge, students will be able to;
 
   - if top low limit is 50 and limit value is 100. List all palindromic and perfect numbers between 50 and 100.
   
-   https://tal58.github.io/JavaScript_workshop/palindromic_perfect_number_list/
+  
+🔗 To see live version 🎯 https://tal58.github.io/JavaScript_workshop/palindromic_perfect_number_list/
 
 
 <p align=center> ⌛ Happy Coding  ✍ </center>
